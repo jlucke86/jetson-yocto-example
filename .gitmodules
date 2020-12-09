@@ -10,3 +10,6 @@
 [submodule "meta-tegra"]
 	path = meta-tegra
 	url = https://github.com/OE4T/meta-tegra.git
+[submodule "meta-example"]
+	path = meta-example
+	url = https://github.com/jlucke86/meta-example.git
